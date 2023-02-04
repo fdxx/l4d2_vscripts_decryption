@@ -1,0 +1,1 @@
+https://developer.valvesoftware.com/wiki/User:RavuAlHemio/Vice_with_better_wildcard_handling
